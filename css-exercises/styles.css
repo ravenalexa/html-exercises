@@ -1,0 +1,20 @@
+.odd-elements {
+  background-color: rgb(225, 157, 169);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-size: 22px;
+}
+
+.odd-elements#cooler {
+  font-size: 32px;
+}
+
+#id-group {
+  color: #0000ff;
+  font-size: 40px;
+}
+
+#id-group-two {
+  background-color: hsl(120, 73%, 75%);
+  font-size: 24px;
+  font-weight: bold;
+}
